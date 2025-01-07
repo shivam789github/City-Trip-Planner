@@ -1,0 +1,10 @@
+
+---
+
+### **5. Add `.gitignore`**
+Create a `.gitignore` file to exclude unnecessary files:
+```bash
+*.class
+*.log
+*.jar
+.DS_Store
